@@ -10,11 +10,11 @@ They are simple tweaks and extensions to the Major System which is already well 
 
 ### Decimal System
 
-The decimal system can be used to encode decimal digits and binary digits. It is largely based on the Major System but with some consenant sounds removed. The most significant change is that the consenant sound of "d" has been assigned to the decimal digit 6, replacing the traditional consenant sounds of the Major System; i.e. "j" (plus "soft-g"), "sh" and "ch".
+The decimal system can be used to encode decimal digits and binary digits. It is largely based on the Major System but with some consonant sounds removed. The most significant change is that the consonant sound of "d" has been assigned to the decimal digit 6, replacing the traditional consonant sounds of the Major System; i.e. "j" (plus "soft-g"), "sh" and "ch".
 
-Rubik's Cube stickers are also listed so that common letter pairs can be shared with this system. The digit 7 (binary 111, sticker C) has been assigned three consenant sounds ("hard-c", "k" and "q") as they are almost indistinguishable. Alternative consenant sounds will be used to distinguish between C, K and Q on the Rubik's Cube; e.g. C = "hard-c" (plus "k" and "q"), K = "ch" and Q = "sh".
+Rubik's Cube stickers are also listed so that common letter pairs can be shared with this system. The digit 7 (binary 111, sticker C) has been assigned three consonant sounds ("hard-c", "k" and "q") as they are almost indistinguishable. Alternative consonant sounds will be used to distinguish between C, K and Q on the Rubik's Cube; e.g. C = "hard-c" (plus "k" and "q"), K = "ch" and Q = "sh".
 
-| Decimal <br/> Digit | Binary <br/> Digits | Cube <br/> Sticker | Consenant <br/> Sound(s) |
+| Decimal <br/> Digit | Binary <br/> Digits | Cube <br/> Sticker | Consonant <br/> Sound(s) |
 |:-:|:---:|:-:|:-:|
 | 0 | 000 | S | s, soft-c, z  |
 | 1 | 001 | T | t |
@@ -31,11 +31,11 @@ Rubik's Cube stickers are also listed so that common letter pairs can be shared 
 
 This system has been designed to encode card ranks; e.g. 2 cards using a basic letter pair. It's a simple enhancement to the decimal system so it can still be used to encode decimal digits and binary digits.
 
-The tridecimal system introduces the consenant sounds that are traditionally assigned to 6 in the Major System - i.e. "j" (plus "soft-g"), "sh" and "ch". These are assigned to J, Q and K on the Rubik's Cube and therefore work well for Jack, Queen and King.
+The tridecimal system introduces the consonant sounds that are traditionally assigned to 6 in the Major System - i.e. "j" (plus "soft-g"), "sh" and "ch". These are assigned to J, Q and K on the Rubik's Cube and therefore work well for Jack, Queen and King.
 
 Card ranks of 1 to 9 use the standard decimal system but 10 is encoded as if it were a 0. Jack, Queen and King use the same sounds as J, Q and K on the Rubik's Cube - i.e. "j" (plus "soft-g"), "sh" and "ch" (described earlier).
 
-| Decimal <br/> Value | Binary <br/> Digits | Card <br/> Rank | Cube <br/> Sticker | Consenant <br/> Sound(s) |
+| Decimal <br/> Value | Binary <br/> Digits | Card <br/> Rank | Cube <br/> Sticker | Consonant <br/> Sound(s) |
 |:--:|:---:|:--:|:-:|:-:|
 | 0  | 000 | 10 | S | s, soft-c, z |
 | 1  | 001 | 1  | T | t |
@@ -53,13 +53,13 @@ Card ranks of 1 to 9 use the standard decimal system but 10 is encoded as if it 
 
 ### Hexadecimal System
 
-This system can be used to encode 2 hexadecimal digits or 8 binary digits using a basic letter pair. It can also be used to encode the rank of a single card or the suits of two cards as a single consenant. Two consenants can then be combined to create a basic letter pair.
+This system can be used to encode 2 hexadecimal digits or 8 binary digits using a basic letter pair. It can also be used to encode the rank of a single card or the suits of two cards as a single consonant. Two consonants can then be combined to create a basic letter pair.
 
-The hexadecimal system introduces the remaining consenant sounds that are traditionally assigned to 7, 8 and 9 in the Major System; i.e. "hard-g", "v" and "b". The traditional order of these sounds within the Major System has been preserved to make it easier to learn and apply this system.
+The hexadecimal system introduces the remaining consonant sounds that are traditionally assigned to 7, 8 and 9 in the Major System; i.e. "hard-g", "v" and "b". The traditional order of these sounds within the Major System has been preserved to make it easier to learn and apply this system.
 
-Card suits are encoded using binary digits; Clubs (♣) = 00, Spades (♠) = 01, Diamonds (<span style='color:red'>♦</span>) = 10, Hearts (<span style='color:red'>♥</span>) = 11. Recalling the consenant sound associated with two specific card suits will become second nature with practice.
+Card suits are encoded using binary digits; Clubs (♣) = 00, Spades (♠) = 01, Diamonds (<span style='color:red'>♦</span>) = 10, Hearts (<span style='color:red'>♥</span>) = 11. Recalling the consonant sound associated with two specific card suits will become second nature with practice.
 
-| Decimal <br/> Value | Binary <br/> Digits | Hex <br/> Digit | Card <br/> Rank | Card <br/> Suits | Cube <br/> Sticker | Consenant <br/> Sound(s) |
+| Decimal <br/> Value | Binary <br/> Digits | Hex <br/> Digit | Card <br/> Rank | Card <br/> Suits | Cube <br/> Sticker | Consonant <br/> Sound(s) |
 |:--:|:----:|:-:|:--:|:---:|:-:|:-:|
 | 0  | 0000 | 0 | 10 | ♣ ♣ | S | s, soft-c, z |
 | 1  | 0001 | 1 | 1  | ♣ ♠ | T | t |
@@ -80,9 +80,9 @@ Card suits are encoded using binary digits; Clubs (♣) = 00, Spades (♠) = 01,
 
 ### Additional Notes
 
-The systems described above only use consenant sounds that appear in the traditional Major System. It is therefore possible to use tools such as [Numzi](http://numzi.com/) for inspiration but you must search for mnemonics using the traditional Major System.
+The systems described above only use consonant sounds that appear in the traditional Major System. It is therefore possible to use tools such as [Numzi](http://numzi.com/) for inspiration but you must search for mnemonics using the traditional Major System.
 
-Only 5 vowels and 4 consenants are absent from the hexadecimal system:
+Only 5 vowels and 4 consonants are absent from the hexadecimal system:
 
 * A, E, I, O, U are not used in the Major System but they are still used on the Rubik's Cube
 * H can be slightly tricky and is sometimes replaced by "ng" on the Rubik's Cube
